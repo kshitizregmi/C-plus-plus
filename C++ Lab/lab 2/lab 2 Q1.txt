@@ -1,0 +1,34 @@
+Question number 1
+
+1.	Create a class named employee_info 
+2.	It contains the records as employee name, number of service years, recent form of employment (g-good,n-normal and ,d-deteriorating), number of sales and present salary. All except form are provided by the user.
+
+3.	Set the form factor as following by the use of switch statement 
+•	Sales <1000, form = d
+•	Sales >=1000 to sales<=3000; form =n
+•	Sales >3000 then form= g
+
+4.	Generate 3 instances of employee 
+5.	Using if else if ladder structure, modify the salary amount as follows
+•	Form = g and service years >=5 yrs; salary is increased by 20%
+•	Form =g and service years < 5 yrs; salary is increased by 10%
+•	Form = n and service years >=5 yrs, salary increased by 10%
+•	Form = n and service years <5 years; salary is increased by 5%
+•	Any other condition, no change in the salary of the employee.
+DISPLAY ALL THE RECORDS IN FORMARTTED FORM: (TABULAR STRUCTURE)
+
+
+Question number 2
+
+
+Use do….while, and while structure to print the following sequence
+5						
+44						
+333
+2222
+11111
+
+		*
+	             ***          
+	           *****          
+	         *******          

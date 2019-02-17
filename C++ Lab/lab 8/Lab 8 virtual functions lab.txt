@@ -1,0 +1,19 @@
+lab assignment : 8-> virtual functions 
+theory :
+virtual function
+pure virtual function and abstract base class 
+virtual destructors 
+friend functions 
+friend class 
+
+questions:
+1.A book shop in Kathmandu valley sells books and DVD. Two classes Book and DVD are inherited from base class Media. The Media 
+class has common data members such as title and publication. The class Book has data members such number_of_pages and that of DVD
+has data members such as duration. Each class member has member functions such as readdata() amd showdata(). Write a program for 
+modelling the class hierarchy for book shop and process objects of these classes using pointers to the base class.
+
+2.Write a program to create a abstract class Polygon with length and height as its data member. Make area() a pure virtual
+function and redefine it in derived class triangle and rectangle to calculate the respective area.
+
+3.Write a program to find the transpose of a given matrix using the friend function.
+

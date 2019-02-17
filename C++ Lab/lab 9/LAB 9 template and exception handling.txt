@@ -1,0 +1,22 @@
+lab assignment 9: templates and exceptions 
+date of submission : both groups :: 14th Baishak,2075
+
+theory:
+template and its importance 
+functional template
+class template 
+exceptions 
+macros vs templates
+try catch and throw syntax structure and usage 
+catching multiple exceptions 
+
+
+questions
+
+Q1.Create a program that shows the use of simple exception example which throws the Range type object when the index of  
+   the stack goes beyond 3 and below 0.
+Q2.Write a program to create a template class to represent queue data structure for different data types. you should define
+   the function outside of the template class.
+Q3.Create a template where array of type T elements is defined and there are different functions that return maximum and minumum
+   of the all array elements. instantiate this array for double, float and integer type.
+Q4.Write a program that shows inheritance concept and catching of child and parent objects with proper example.

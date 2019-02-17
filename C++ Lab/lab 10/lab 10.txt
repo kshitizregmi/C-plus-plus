@@ -1,0 +1,5 @@
+Q1. Write a C++ code to solve the quadratic equation.
+2. Write  a C++ code to find out the prime number between 2000 and 2050
+3. Write  a C++ code to calculate the compound interest of a sum of a money.
+4. Write a C++ program to reverse the given text 
+5.Write  a C++ code to get the list of leap years from 1900 to 2000.
